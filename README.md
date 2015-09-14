@@ -1,2 +1,1 @@
-# sddf-example
-Examples for the SddF
+# Example usage of SddF
