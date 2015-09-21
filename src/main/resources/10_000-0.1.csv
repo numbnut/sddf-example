@@ -1,4 +1,4 @@
-TID,CID,id,number,title,length,artist,album,year,language
+CID,TID,id,number,title,length,artist,album,year,language
 1,1,2726429,9,L'enfant aux yeux d'Italie,219800,Daniel Balavoine,De vous à elle en passant par moi,,French
 2,2,14222995,17,Mustard Gas,129000,Action Painting!,There and Back Again Lane,,English
 3,3,4489993,10,Your Grace,166000,Kathy Troccoli,Comfort,2005,English
