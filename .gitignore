@@ -13,5 +13,4 @@ bin/
 .idea
 .idea_modules
 *.iml
-log4j.properties
 .cache-tests
